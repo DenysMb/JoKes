@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: 2023 Denys Madureira <>
+# SPDX-License-Identifier: LGPL-2.0-or-later
+
+File=jokesconfig.kcfg
+ClassName=JoKesConfig
+Mutators=true
+DefaultValueGetters=true
+GenerateProperties=true
+ParentInConstructor=true
+Singleton=true

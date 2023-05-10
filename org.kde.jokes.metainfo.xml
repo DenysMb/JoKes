@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SPDX-License-Identifier: FSFAP
+  SPDX-FileCopyrightText: 2023 Denys Madureira <>
+ -->
+<component type="desktop-application">
+  <id>org.kde.jokes</id>
+  <name>JoKes Kirigami Application</name>
+  <summary>Just a small application that tells you a jokes fetched from JokesAPI</summary>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL</project_license>
+  <developer_name>Denys Madureira</developer_name>
+  <description>
+    <p>Just a small application that tells you a jokes fetched from JokesAPI</p>
+  </description>
+</component>
